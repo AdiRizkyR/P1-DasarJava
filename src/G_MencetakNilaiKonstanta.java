@@ -1,4 +1,4 @@
-public class MencetakNilaiKonstanta {
+public class G_MencetakNilaiKonstanta {
     public static void main(String[] args) {
         final double PHI = 3.14;
         final double CM_PER_INCH = 2.54;
